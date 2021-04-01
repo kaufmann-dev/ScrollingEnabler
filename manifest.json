@@ -1,0 +1,22 @@
+{
+    "name": "Scrolling Enabler",
+    "description": "Enable scrolling on websites that disabled it again!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "scrolling_enabler16.png",
+            "32": "scrolling_enabler32.png",
+            "48": "scrolling_enabler48.png",
+            "128": "scrolling_enabler128.png"
+        }
+    },
+    "icons": {
+        "16": "scrolling_enabler16.png",
+        "32": "scrolling_enabler32.png",
+        "48": "scrolling_enabler48.png",
+        "128": "scrolling_enabler128.png"
+    }
+}

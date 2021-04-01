@@ -1,0 +1,23 @@
+body {
+    background-color: #121212;
+    margin: 16px;
+}
+#enableScrolling {
+    background-color: #92cbf7;
+    color: #121212;
+    border-radius: 100px;
+    border: none;
+    outline: none;
+    vertical-align: top;
+    padding: 8px 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    white-space: nowrap;
+    cursor: pointer;
+}
+#enableScrolling:hover {
+    background-color: #87bce5;
+}
+#enableScrolling:active {
+    background-color: #6a94b4;
+}
